@@ -6,7 +6,7 @@ close all;
 clc;
 
 %Mostrar a imagem a ser processada
-img_path = 'mateusarce.JPG';
+img_path = 'gay.jpeg';
 img = imread(img_path);
 figure  ("Name", "Imagem Original"); imshow(img);
 
