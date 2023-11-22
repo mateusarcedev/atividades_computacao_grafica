@@ -15,7 +15,7 @@ Certifique-se de ter o MATLAB instalado em seu sistema antes de executar o códi
 
 2. Abra o MATLAB e navegue até o diretório onde o código está localizado.
 
-3. Execute o script `processamento_imagens.m`.
+3. Execute o script `processamento_imagens.m`
 
 4. Observe os resultados exibidos no console e nas figuras geradas.
 
